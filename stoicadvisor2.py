@@ -4,7 +4,7 @@ import streamlit as st
 import random
 
 # Set the GPT-3 API key
-openai.api_key = st.secrets["pass"]
+openai.api_key = "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"
 
 
 #generate policy violation argument
